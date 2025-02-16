@@ -18,5 +18,5 @@ in a fast manner.
  To make this game entertaining, I randomized who starts first. Shown below
  are different scenarios of the game play, where 1 is the human opponent piece, 2
  is the AI piece, and 0 is the blank pieces. The depth used for this game play is 5. 
-
+![Alt text](image.PNG)
  
